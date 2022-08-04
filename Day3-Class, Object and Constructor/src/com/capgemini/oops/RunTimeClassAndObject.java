@@ -5,7 +5,7 @@ import java.util.Scanner;
 // Program on how to create class and object
 
 class Vehicle {
-	// veriable
+	
 	 int x ;
 	 // method
 	 void display()
