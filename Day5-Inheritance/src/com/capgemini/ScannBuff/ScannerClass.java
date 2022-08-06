@@ -1,4 +1,4 @@
-package com.capgemini.ScannerBuffer;
+package com.capgemini.ScannBuff;
 
 import java.util.Scanner;
 
