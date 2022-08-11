@@ -1,6 +1,6 @@
 package com.capgemini.StaticKeyword;
 //Without importing static
-//import static java.lang.Math.*;
+
 
 public class StaticWithoutImportDemo {
 
