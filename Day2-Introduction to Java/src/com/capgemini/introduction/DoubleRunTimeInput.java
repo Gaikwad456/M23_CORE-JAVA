@@ -10,6 +10,7 @@ public class DoubleRunTimeInput {
 		Scanner s = new Scanner(System.in);
 		double x = s.nextDouble();
 		System.out.println(x);
+		s.close();
 	}
 
 }

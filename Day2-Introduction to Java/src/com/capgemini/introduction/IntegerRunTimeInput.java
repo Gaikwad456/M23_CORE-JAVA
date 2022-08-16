@@ -12,6 +12,7 @@ public class IntegerRunTimeInput {
 		
 		int x = s.nextInt();
 		System.out.println("The int is :" + x);
+		s.close();
 
 	}
 

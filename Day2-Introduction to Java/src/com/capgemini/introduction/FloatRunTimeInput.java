@@ -10,7 +10,7 @@ public class FloatRunTimeInput {
 		Scanner s = new Scanner(System.in);
 		float x = s.nextFloat();
 		System.out.println(x);
-
+         s.close();
 	}
 
 }

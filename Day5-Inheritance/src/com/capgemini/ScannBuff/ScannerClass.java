@@ -9,7 +9,7 @@ public class ScannerClass {
 		//String str = s.nextLine();
 		int a = s.nextInt();
 		System.out.println(a);
-		
+		s.close();
 	}
 
 }
