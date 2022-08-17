@@ -4,10 +4,11 @@ package com.capgemini.oops;
 class Animal {
 	int x;
 	
-		Animal()       // Non parameterized constructor
-	{
-		x = 15;
-	}	
+	Animal()       // Non parameterized constructor
+{
+	x = 15;
+}	
+	
 		void display()
 		{
 			System.out.println("Lion" + " " + x);

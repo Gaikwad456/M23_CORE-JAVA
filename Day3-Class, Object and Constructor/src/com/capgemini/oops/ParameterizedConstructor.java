@@ -9,8 +9,8 @@ class Pulser{
 	{
 		this.speed = speed ;
 		this.color = color ;
-	}
-	
+	}	
+		
 	void display()
 	{
 		System.out.println("Speed is :" + speed + "km/hr" + "  " + "Color is :" + color);
@@ -21,7 +21,8 @@ public class ParameterizedConstructor {
 
 	public static void main(String[] args) {
 		// Object Creation
-		Pulser p = new Pulser(45,"Purple");
+		Pulser p = new Pulser(45, "Purple");
+		// accessing object
 		p.display();
 
 	}
