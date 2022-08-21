@@ -9,6 +9,7 @@ public class VectorExample {
 		Vector v = new Vector();
 		v.add(5);
 		v.add(0,"Komal");
+		//v.setElementAt(1,2);
 		System.out.println(v);
 		
 
