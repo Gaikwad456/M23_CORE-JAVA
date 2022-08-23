@@ -13,7 +13,7 @@ class Kitkat extends AndroidVersion
 		System.out.println("Kitkat");
 	}
 }
-class Pie extends Kitkat
+class Pie extends AndroidVersion
 {
 	void print1()
 	{
