@@ -11,7 +11,7 @@ class Car
 }
 class Audi extends Car
 {
-	
+	        
 }
 public class FinalInheritedMethod {
 

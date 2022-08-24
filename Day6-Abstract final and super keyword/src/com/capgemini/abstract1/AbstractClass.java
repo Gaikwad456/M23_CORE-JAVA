@@ -1,7 +1,7 @@
 package com.capgemini.abstract1;
  abstract class flower
 {    // abstract method
-	abstract void display();
+     abstract void display();
 	// non abstract method
 	void accept()
 	{
