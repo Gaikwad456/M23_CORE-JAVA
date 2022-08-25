@@ -3,6 +3,7 @@ package com.capgemini.operators;
 
 public class LogicalOperators {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
        
 		int a = 4;

@@ -8,7 +8,8 @@ class A
 	}
 }
 class B extends A
-{   public int pin;
+{
+   public int pin;
 	public void display()
 	{
 		System.out.println("Pin is :" + pin);

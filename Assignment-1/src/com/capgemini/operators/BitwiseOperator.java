@@ -2,6 +2,7 @@ package com.capgemini.operators;
 
 public class BitwiseOperator {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int a =5;
 		int b = 2;
