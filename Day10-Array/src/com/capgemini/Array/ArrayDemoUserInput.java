@@ -19,7 +19,7 @@ public class ArrayDemoUserInput {
          }
          //to print the elements in the array
          for (int j:arr)
-         {
+        {
         	 System.out.println(j);
          }
          s.close();
