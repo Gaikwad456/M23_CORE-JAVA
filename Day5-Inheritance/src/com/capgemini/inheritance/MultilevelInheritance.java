@@ -2,7 +2,7 @@ package com.capgemini.inheritance;
 class Bike
 {
 	protected int speed;
-	void display() {
+	 void display() {
 		System.out.println("I Like to drive a bike");
 	}
 }

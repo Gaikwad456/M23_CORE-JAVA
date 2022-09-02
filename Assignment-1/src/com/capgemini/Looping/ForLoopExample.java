@@ -8,7 +8,7 @@ public class ForLoopExample {
 		Scanner s = new Scanner (System.in);
 		int n = s.nextInt();
 		
-       for(int i = 1 ; i<= n ; i++)
+       for(int i = 1 ;i<=4; i++)
     	   
        {
     	   System.out.print(i+ " ");

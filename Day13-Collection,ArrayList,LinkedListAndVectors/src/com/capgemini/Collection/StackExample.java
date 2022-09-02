@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class StackExample {
 
-	@SuppressWarnings("rawtypes")
+	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public static void main(String[] args) {
 		Stack obj= new Stack();
 		obj.add("komal");

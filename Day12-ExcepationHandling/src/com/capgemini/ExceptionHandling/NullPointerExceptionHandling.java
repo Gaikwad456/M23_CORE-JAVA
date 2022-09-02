@@ -1,5 +1,5 @@
 package com.capgemini.ExceptionHandling;
-import java.util.Scanner;
+
 
 public class NullPointerExceptionHandling {
 
