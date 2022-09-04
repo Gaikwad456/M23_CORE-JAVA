@@ -7,7 +7,7 @@ public class FileFilterLambda {
 
 	public static void main(String[] args) {
 		FileFilter obj =(File pathname)->pathname.getName().endsWith(".pptx");
-        File dir= new File("");
+        File dir= new File("Komal");
         File contents[]= dir.listFiles(obj);
         //enhanced for loop
         /*if any particular extension file is open 
