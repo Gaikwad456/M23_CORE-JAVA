@@ -8,7 +8,7 @@ public class EmployeeDao
 {
      public Connection createConnection()
      {
-    	 String URL="jdbc:mysql://127.0.0.1:3306/tns";
+    	 String URL="jdbc:mysql://localhost:3306/tns1";
     	 String user="root";
          String password="Gaikwad990";
          try
